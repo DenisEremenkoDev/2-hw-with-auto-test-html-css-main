@@ -1,6 +1,8 @@
 * {
     /* Свойства для сброса начальных стилей элементов */
-    test
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
 body {}
